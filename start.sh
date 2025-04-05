@@ -1,2 +1,2 @@
 #!/bin/bash
-python VideoMateBot.py
+python3 VideoMateBot.py
